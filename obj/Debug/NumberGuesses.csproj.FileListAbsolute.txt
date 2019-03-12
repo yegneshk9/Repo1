@@ -1,0 +1,7 @@
+C:\Users\binnuk\source\repos\NumberGuesses\obj\Debug\NumberGuesses.csprojResolveAssemblyReference.cache
+C:\Users\binnuk\source\repos\NumberGuesses\obj\Debug\NumberGuesses.csproj.CoreCompileInputs.cache
+C:\Users\binnuk\source\repos\NumberGuesses\bin\Debug\NumberGuesses.exe.config
+C:\Users\binnuk\source\repos\NumberGuesses\bin\Debug\NumberGuesses.exe
+C:\Users\binnuk\source\repos\NumberGuesses\bin\Debug\NumberGuesses.pdb
+C:\Users\binnuk\source\repos\NumberGuesses\obj\Debug\NumberGuesses.exe
+C:\Users\binnuk\source\repos\NumberGuesses\obj\Debug\NumberGuesses.pdb
