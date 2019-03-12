@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D495-DD77
+
+ Directory of C:\Users\binnuk\source\repos\NumberGuesses
+
+03/11/2019  10:03 PM    <DIR>          .
+03/11/2019  10:03 PM    <DIR>          ..
+03/06/2019  07:47 PM               189 App.config
+03/06/2019  07:47 PM    <DIR>          bin
+03/06/2019  07:47 PM             2,335 NumberGuesses.csproj
+03/06/2019  07:47 PM             1,124 NumberGuesses.sln
+03/06/2019  07:47 PM    <DIR>          obj
+03/07/2019  03:07 AM             2,508 Program.cs
+03/06/2019  07:47 PM    <DIR>          Properties
+03/11/2019  10:03 PM                 0 test1.text
+               5 File(s)          6,156 bytes
+               5 Dir(s)   6,696,034,304 bytes free
